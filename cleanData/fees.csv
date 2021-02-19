@@ -1,0 +1,67 @@
+School,location,semester_fee,waiver
+University of Vermont,"Burlington, VT",1173,no
+Arizona State U,"Tempe, AZ",444,
+Bowling Green State U,"Bowling Green, OH",780,
+Clemson U,"Clemson, SC",1140,
+Colorado School of Mines,"Golden, CO",1225,
+Florida State U,"Tallahassee, FL",707.29,
+Kansas State U,"Manhattan, KS",472.5,
+Kent State U,"Kent, OH",663,
+Louisiana State U,"Baton Rouge, LA",653,
+New Mexico State U,"Las Cruces, NM",472.5,
+North Carolina State U Raleigh,"Raleigh, NC",1288,
+Southern Illinois U Carbondale,"Carbondale, IL",643.4,
+Texas A&M U,"College Station, TX",NA,
+Texas Tech U,"Lubbock, TX",1170.5,
+U Arkansas,"Fayetteville, AR",726,
+U Colorado-Denver,"Denver, CO",576,
+U Delaware,"Newark, DE",521,
+U Georgia,"Athens, GA",1145,
+U Iowa,"Iowa City, IA",694.75,
+U Louisville,"Louisville, KY",201,
+U Missouri Kansas City,"Kansas City, MO",1004.82,
+U Missouri St. Louis,"St. Louis, MO",NA,
+U Montana,"Missoula, MT",1020,
+U Nebraska Lincoln,"Lincoln, NE",807.25,
+U New Mexico,"Albuquerque, NM",700.56,
+U North Carolina Chapel Hill,"Chapel Hill, NC",981.82,
+U North Carolina Greensboro,"Greensboro, NC",1159,
+U North Dakota,"Grand Forks, ND",729.72,
+U Oklahoma,"Norman, OK",644.45,
+U Rhode Island,"Kingston/South Kingstown, RI",934,
+U South Dakota,"Vermillion, SD",54.5,
+U South Florida,"Tampa, FL",724.68,
+U Tennessee Knoxville,"Knoxville, TN",855,
+U Texas Austin,"Austin, TX",NA,
+U Utah,"Salt Lake City, UT",579.2,
+U Wisconsin Milwaukee,"Milwaukee, WI",NA,
+Utah State U,"Logan, UT",511.45,
+Washington State U,"Pullman, WA",NA,
+Wayne State U,"Detroit, MI",491.04,
+Auburn University,"Auburn, AL",858,
+Binghamton U (SUNY),"Binghamton, NY",1095,no
+Florida Agricultural and Mechanical University,"Tallahassee, FL",643.86,no
+Mississippi State University,"Starkville, MS",55,
+Montana State University,"Bozeman, MT",780,no. tuition waivers are not guaranteed
+Oklahoma State University-Main Campus,"Stillwater, OK",1098.45,
+The University of Alabama,"Tuscaloosa, AL",800,
+University of Idaho,"Moscow, ID",786,no and only OoS tuition differential is covered--students responsible for IS tuition rate
+University of Nevada-Reno,"Reno, NV",1053.8,no--includes partial tuition charged to assistants
+University of Wyoming,"Laramie, WY",0,yes
+University of Louisiana at Lafayette,"Lafayette, LA",,yes
+South Dakota State University,"Brookings, SD",450.9,no
+University of North Carolina Wilmington,"Wilmington, NC",1369,no
+Idaho State University,"Pocatello, ID",0,yes
+University of Colorado Colorado Springs,"Colorado Springs, CO",NA,no & no tuition waivers
+North Dakota State University-Main Campus,"Fargo, ND",535.05,no
+University of Maryland-Baltimore County,"Baltimore, MD",351,no
+University of Maine,"Orono, ME",649,no
+Boston C,"Boston, MA",333,no
+Boston U,"Boston, MA",0,yes
+C William & Mary,"Williamsburg, VA",0,yes
+George Washington U,"Washington, DC",27,no
+Stony Brook U (SUNY),"Stony Brook, NY",1112.22,no
+Syracuse U,"Syracuse, NY",441.5,no
+U Colorado Boulder,"Boulder, CO",847.92,no
+U Connecticut,"Storrs, CT",1378,no
+U Massachusetts Amherst,"Amherst, MA",729.08,health fee only--amount here is non-covered portion
